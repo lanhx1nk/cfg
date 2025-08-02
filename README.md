@@ -1,1 +1,2 @@
-+exec lanh_autoexec.cfg
+lanhx1nk
+
